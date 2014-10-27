@@ -1,4 +1,2 @@
-hello-world
-===========
+Looking forward to sharing .bas code and comments with others!
 
-hello github, I hear an echo hello, hello, hello....
